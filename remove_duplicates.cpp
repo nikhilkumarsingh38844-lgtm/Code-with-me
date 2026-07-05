@@ -12,7 +12,7 @@ int main(){
         cin>>arr[i];
     }
     cout<<"Your array is:-";
-    for(int i=0;i<=n-1;i++){    
+    for(int i=0;i<=n-1;i++){     
         cout<<arr[i]<<" "; 
     } 
     int i=0;
