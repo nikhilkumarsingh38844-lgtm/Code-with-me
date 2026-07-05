@@ -25,7 +25,7 @@ int main(){
     cout<<endl;
     cout<<"After the remove duplicated element in an array:";
     for(int k=0;k<=i;k++){
-        cout<<arr[k]<<" ";
+        cout<<arr[k]<<" "; 
     }
     return 0;
-}
+} 
