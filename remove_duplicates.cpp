@@ -5,7 +5,7 @@ int main(){
     cout<<"Please enter the size of an array:";
     cin>>n;
     cout<<"Please enter the sorted array!";
-    cout<<endl;
+    cout<<endl; 
     int arr[n];
     for(int i=0;i<=n-1;i++){ 
         cout<<"Enter the element["<<i<<"]:";
@@ -13,7 +13,7 @@ int main(){
     }
     cout<<"Your array is:-";
     for(int i=0;i<=n-1;i++){    
-        cout<<arr[i]<<" ";
+        cout<<arr[i]<<" "; 
     } 
     int i=0;
     for(int j=1;j<n;j++){
