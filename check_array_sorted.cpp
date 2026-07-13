@@ -8,8 +8,8 @@ bool is_sorted(int n, int arr[]){
     }
     return true;
 }
-int main(){
-    int n;
+int main(){      
+    int n; 
     cout<<"Enter the size of an array:";
     cin>>n;
     int arr[n]; 
