@@ -10,7 +10,7 @@ int maximum(int arr[],int n){
             count=0;
         }
     }
-    return maxi;
+    return maxi; 
 }
 int main(){
     int n;
